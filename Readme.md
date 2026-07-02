@@ -3,12 +3,24 @@
 You can also find it on [Factorio.School](https://www.factorio.school/view/-OBdq3vJ2slIWEDAXEeM), [Factorioprints](https://factorioprints.com/view/-OBdq3vJ2slIWEDAXEeM) and 
 [Factorio Codex](https://www.factoriocodex.com/blueprints/44).
 
-![Alt text](tileable_factories.png?raw=true "Tileable Factories")
+![Tileable Factories](tileable_factories.png?raw=true)
 
 <details>
 <summary>Changelog</summary>
 
 Previous versions have been [archived](https://github.com/Xeinaemm/Factorio-Tileable-Factories/releases/tag/v0.57.0).
+
+## v0.59.0 (Factorio 2.1)
+- Added Refueling Station in Space.
+- Removed redundant hulls(right ones) as game now supports blueprint flipping.
+- Optimized Asteroid crusher and added extra recycler kiss to prevent unrecoverable clog.
+- Fixed missing quality modules in Quality Upcycler(Cryogenic plant) and outdated parameter in rare quality plants
+- Redesigned Quality Upcycler(LDS Shuffle) and increased througput to 210 legendary items/s.
+- Redesigned ammo factories except artillery shells to smallest tileable blueprints.
+- Removed storage tank from Fluoroketone(Cold) factory.
+- Added restart mechanism to U-235 factory after long production downtime.
+- Redesigned space science to smallest tileable blueprint and increased throughput to 1200/s.
+- Updated Vulcanus blueprints with landfill-recycler designs and removed redundant molten metal foundries thanks to 2.1 fluid change.
 
 ## v0.58.0 (Factorio 2.1)
 - Added automated infinite research in Lab.
